@@ -10,6 +10,7 @@
     -webkit-box-pack: center;
     -moz-box-pack: center;
     box-pack: center;
+    width: 100%; /* FF fix */
     height: 100%;
 	font-family: "Nunito","Lucida Grande", Lucida, Verdana, sans-serif;
 	background: -webkit-radial-gradient(center, closest-side, hsl(0,0%,30%), hsl(0,0%,15%) );
